@@ -1,4 +1,4 @@
-//2.Create a new Project in Intelij Idea and output “subscribe” on the console
+//Create a new Project in Intelij Idea and output “subscribe” on the console
 // Learnig java zero to advance
 // "subscribe"
 public class program2{
