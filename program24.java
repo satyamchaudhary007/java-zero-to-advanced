@@ -8,7 +8,7 @@ public class program24{
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 
-    System.out.println("Welcome to lrft shift number");
+    System.out.println("Welcome to compliment  number");
     System.out.print("please enter your number : ");
     int num = input.nextInt();
 
