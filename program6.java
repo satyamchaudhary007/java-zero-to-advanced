@@ -7,10 +7,10 @@ public class program6{
     Scanner input = new Scanner(System.in);
     System.out.println("Welcome to sum of two number calculator !! ");
 
-    System.out.print("Please Enter Your First_number  number  : ");
+    System.out.print("Please Enter Your First_number : ");
     int  First_number = input.nextInt();
 
-    System.out.print("Please Enter Your second_number  number  : ");
+    System.out.print("Please Enter Your second_number : ");
     int  second_number = input.nextInt();
 
     int sum = First_number + second_number;
